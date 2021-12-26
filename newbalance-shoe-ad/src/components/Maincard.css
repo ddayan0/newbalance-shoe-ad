@@ -1,0 +1,26 @@
+.hero {
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 50%;
+    font-family: "Times New Roman", Times, serif;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 0;
+    bottom: 3;
+    height: 94.2vh;
+    z-index: -10;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 18px;
+}
